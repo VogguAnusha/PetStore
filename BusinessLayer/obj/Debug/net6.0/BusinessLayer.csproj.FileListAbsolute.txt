@@ -1,0 +1,15 @@
+E:\PetStoreMangement\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+E:\PetStoreMangement\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+E:\PetStoreMangement\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+E:\PetStoreMangement\BusinessLayer\bin\Debug\net6.0\DataAcessLayer.dll
+E:\PetStoreMangement\BusinessLayer\bin\Debug\net6.0\DataAcessLayer.pdb
+E:\PetStoreMangement\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+E:\PetStoreMangement\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\PetStoreMangement\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+E:\PetStoreMangement\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+E:\PetStoreMangement\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\PetStoreMangement\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+E:\PetStoreMangement\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+E:\PetStoreMangement\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+E:\PetStoreMangement\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+E:\PetStoreMangement\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll

@@ -1,0 +1,14 @@
+E:\PetStoreMangement\DataAcessLayer\bin\Debug\net6.0\DataAcessLayer.deps.json
+E:\PetStoreMangement\DataAcessLayer\bin\Debug\net6.0\DataAcessLayer.runtimeconfig.json
+E:\PetStoreMangement\DataAcessLayer\bin\Debug\net6.0\DataAcessLayer.dll
+E:\PetStoreMangement\DataAcessLayer\bin\Debug\net6.0\DataAcessLayer.pdb
+E:\PetStoreMangement\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.csproj.AssemblyReference.cache
+E:\PetStoreMangement\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\PetStoreMangement\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.AssemblyInfoInputs.cache
+E:\PetStoreMangement\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.AssemblyInfo.cs
+E:\PetStoreMangement\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.csproj.CoreCompileInputs.cache
+E:\PetStoreMangement\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.dll
+E:\PetStoreMangement\DataAcessLayer\obj\Debug\net6.0\refint\DataAcessLayer.dll
+E:\PetStoreMangement\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.pdb
+E:\PetStoreMangement\DataAcessLayer\obj\Debug\net6.0\DataAcessLayer.genruntimeconfig.cache
+E:\PetStoreMangement\DataAcessLayer\obj\Debug\net6.0\ref\DataAcessLayer.dll
